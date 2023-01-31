@@ -2,6 +2,7 @@
 <template>
  <div>
   <h1><i>This Is Sample Project For CloudFlare Purpose</i></h1>
+  <p>hello there</p>
  </div>
 </template>
 
